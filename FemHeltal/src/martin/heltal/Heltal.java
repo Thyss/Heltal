@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Heltal {
 
 	public static void main(String[] args) {
-		int heltal[] = new int[5];
+		int heltal[] = new int[5]; //Array
 
 		Scanner sc = new Scanner(System.in);
 
